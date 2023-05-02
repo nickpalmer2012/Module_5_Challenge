@@ -13,3 +13,6 @@ https://pandas.pydata.org/pandas-docs/version/0.25.0/reference/api/pandas.Series
 
 numpy bar plotting documentation:
 https://www.geeksforgeeks.org/bar-plot-in-matplotlib/#
+
+documentation for changing color of outliers:
+https://matplotlib.org/stable/gallery/statistics/boxplot.html
